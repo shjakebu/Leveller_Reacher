@@ -1,4 +1,4 @@
-Copyright (c) 2018 Nikhil Barhate
+#Copyright (c) 2018 Nikhil Barhate
 import torch
 import torch.nn as nn
 from torch.distributions import MultivariateNormal
