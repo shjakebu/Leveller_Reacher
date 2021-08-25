@@ -6,7 +6,7 @@
     </material>
 
     <!-- Plane -->
-    <link name="base_link">
+    <link name="base">
         <visual> 
             <geometry> 
                 <box size="20 20 0.01"/>
